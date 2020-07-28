@@ -1,0 +1,4 @@
+FROM ubuntu:18.04
+
+RUN apt update && apt install -y curl ca-certificates
+RUN curl -Lo blimp https://blimp-releases.s3-us-west-1.amazonaws.com/blimp-linux-0.13.20 && chmod +x blimp && mv blimp /usr/local/bin
