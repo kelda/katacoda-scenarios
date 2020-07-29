@@ -12,3 +12,6 @@ curl -Lo blimp https://blimp-releases.s3-us-west-1.amazonaws.com/blimp-linux-0.1
 
 echo "Cloning the example repo.."
 git clone https://github.com/kelda/node-todo
+
+# Allow errors from the user during the scenario.
+set +e
