@@ -6,28 +6,24 @@
   "details": {
     "steps": [
         {
-          "title": "Step 1 - Clone the example",
-          "text": "step1.md"
+          "title": "Step 1 - Login to Blimp",
+          "text": "login.md"
         },
         {
-          "title": "Step 2 - Login to Blimp",
-          "text": "step2.md"
+          "title": "Step 2 - Boot the example",
+          "text": "boot.md"
         },
         {
-          "title": "Step 3 - Boot the example",
-          "text": "step3.md"
+          "title": "Step 3 - Make a code change",
+          "text": "code-change.md"
         },
         {
-          "title": "Step 4 - Make a code change",
-          "text": "step4.md"
+          "title": "Step 4 - Explore other commands",
+          "text": "explore-commands.md"
         },
         {
-          "title": "Step 5 - Test the change",
-          "text": "step5.md"
-        },
-        {
-          "title": "Step 6 - Explore other commands",
-          "text": "step6.md"
+          "title": "Step 4 - Explore the config",
+          "text": "explore-config.md"
         }
     ],
     "intro": {
