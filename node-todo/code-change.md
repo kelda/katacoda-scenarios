@@ -1,4 +1,4 @@
-1. Open `node-todo/app/routes.js` in the text editor, uncomment the code on line 12, and save the file.
+1. Open `node-todo/app/routes.js` in the text editor, and uncomment the code on line 12. Katacoda will save your change automatically.
 
    Blimp will sync the change into the container, and nodemon will restart the Node server.
 

@@ -13,6 +13,7 @@ mkdir -p ~/.blimp
 
 echo "Cloning the example repo.."
 git clone https://github.com/kelda/node-todo
+cd node-todo
 
 # Allow errors from the user during the scenario.
 set +e

@@ -1,6 +1,6 @@
 Boot your development environment
 
-`blimp up` {{execute}}
+`blimp up`{{execute}}
 
 Blimp is:
 * Booting up all your services.
