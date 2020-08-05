@@ -1,6 +1,5 @@
-1. **Run `blimp up`{{execute}}** to boot your development environment
+1. **Run `blimp up`{{execute}}** to boot your development environment. This command:
 
-   This command:
    * **Boots** up all the containers.
    * **Syncs** the local code into the Node.js container.
    * Sets up **tunnels** so that you can access the containers as if they were running locally.

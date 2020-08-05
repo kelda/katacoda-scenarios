@@ -18,7 +18,7 @@
           "text": "code-change.md"
         },
         {
-          "title": "Step 4 - Explore!",
+          "title": "Step 4 - Explore",
           "text": "explore.md"
         }
     ],
@@ -28,6 +28,7 @@
       "credits": ""
     },
     "finish": {
+      "title": "You now know how easy it is to use Blimp!",
       "text": "finish.md"
     }
   },
