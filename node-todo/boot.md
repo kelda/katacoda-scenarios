@@ -1,14 +1,25 @@
-Boot your development environment
+1. **Run `blimp up`{{execute}}** to boot your development environment
 
-`blimp up`{{execute}}
+   This command:
+   * **Boots** up all the containers.
+   * **Syncs** the local code into the Node.js container.
+   * Sets up **tunnels** so that you can access the containers as if they were running locally.
 
-Blimp is:
-* Booting up all your services.
-* Syncing your code over.
-* Setting up tunnels.
+1. **Wait for the containers to boot, and for them to start printing logs**
 
-Once everything is booted (TODO: img), you can access your app.
+   ![Booted](./assets/booted.png)
 
-Open https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/ to view your app.
+1. **Access the application**
 
-Normally this would be localhost:8080, but that won't work in the sandbox.
+   Open https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/ in your browser.
+
+   ![Booted](./assets/browser.png)
+
+   _Note_: If you were running locally, you would access your application at
+   `localhost:8080`. But we have to use the Katacoda link since we're running
+   within your browser.
+
+1. **Add a couple todos**
+
+   Add some todos via the above link. In the next step, we'll make a code
+   change that changes the output of the todos.

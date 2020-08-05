@@ -10,7 +10,7 @@
           "text": "login.md"
         },
         {
-          "title": "Step 2 - Boot the example",
+          "title": "Step 2 - Boot your development environment",
           "text": "boot.md"
         },
         {
@@ -18,12 +18,8 @@
           "text": "code-change.md"
         },
         {
-          "title": "Step 4 - Explore other commands",
-          "text": "explore-commands.md"
-        },
-        {
-          "title": "Step 4 - Explore the config",
-          "text": "explore-config.md"
+          "title": "Step 4 - Explore!",
+          "text": "explore.md"
         }
     ],
     "intro": {

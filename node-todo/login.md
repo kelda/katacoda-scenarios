@@ -1,6 +1,4 @@
-Wait for the initialization script to finish, which takes about 15 seconds.
-
-Once you can type into the terminal:
+_The initialization script takes about 15 seconds to finish._ Once you can type into the terminal:
 
 1. **Run `blimp login`{{execute}}.** This will connect your session with your Blimp
    account.
