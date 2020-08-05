@@ -1,5 +1,12 @@
-Wait for the init script to finish.
+Wait for the initialization script to finish, which takes about a minute.
 
-1. Go to [blimp-login.kelda.io](https://blimp-login.kelda.io)
-1. Login (or create account)
-1. Copy the command into the terminal here.
+Once you can type into the terminal:
+
+1. Run `blimp login`{{execute}}. This will connect your session with your Blimp
+   account.
+1. Open the link printed by `blimp login` in your browser.
+1. Login (or create a new account) on the login page.
+
+   Once you've logged in, the CLI will automatically fetch your credentials.
+
+   You're now ready to boot the example app in your personal environment!
