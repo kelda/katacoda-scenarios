@@ -1,4 +1,4 @@
-Wait for the initialization script to finish, which takes about a minute.
+Wait for the initialization script to finish, which takes about 15 seconds.
 
 Once you can type into the terminal:
 
