@@ -28,7 +28,6 @@
     ],
     "intro": {
       "text": "intro.md",
-      "code": "init.sh",
       "credits": ""
     },
     "finish": {
