@@ -28,6 +28,7 @@
     ],
     "intro": {
       "text": "intro.md",
+      "code": "init.sh",
       "credits": ""
     },
     "finish": {
@@ -38,6 +39,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "kelda-blimp-blimp"
+    "imageid": "ubuntu:1804"
   }
 }
