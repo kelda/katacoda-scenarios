@@ -7,7 +7,7 @@ Compose features critical for development, such as `volumes`, `build`, and
 
 Check out the Compose file used for this example: `node-todo/docker-compose.yml`{{open}}
 
-# Other commands
+# Other Commands
 
 Blimp has all the commands that you need for a complete development workflow,
 such as **getting logs** and **restarting containers**. These commands have the

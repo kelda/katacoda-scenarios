@@ -1,3 +1,5 @@
+You now know how easy it is to use and configure Blimp!
+
 Using Blimp is as simple as running `blimp up` (just like `docker-compose up`),
 and diving into development.
 
