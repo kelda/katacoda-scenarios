@@ -3,7 +3,8 @@
    Katacoda will save your change automatically after you edit.
 
    After you make the change, Blimp will automatically sync the change into the
-   container, and `nodemon` will restart the Node server.
+   container, and `nodemon` will restart the Node server. This usually takes _5
+   seconds_ or less.
 
 1. **Check that the change worked by reloading https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/**
 

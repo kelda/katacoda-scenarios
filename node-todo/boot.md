@@ -10,7 +10,10 @@
 
 1. **Access the application**
 
-   Open https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/ in your browser.
+   Open https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+   in your browser.
+
+   This link routes to `localhost:8080` of your current demo session.
 
    ![Booted](./assets/browser.png)
 
